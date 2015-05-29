@@ -1,0 +1,64 @@
+﻿<?php
+include('Creator.php');
+$obj=new Create();
+$obj->body("<div class='rooms'>
+<div class='roommain'>
+<img src='images/suit17.jpg'/>
+</div>
+<div class='roomdetails'>
+<p id='font'><b>Dining</b></p>
+<span><b>ঢাকার অন্যতম সেরা রেস্তোরার খাবার উপভোগ করুন</b></span>
+<p>ঢাকায় বিভিন্ন আকর্ষণীয় খাবার রেস্তোরা আছে এবং আমাদের হোটেল আপনাকে এইসব রেস্তোরার খাবার হোটেলে বসেই উপভোগ করার সুযোগ দিচ্ছে।
+আমাদের হোটেল এর রেস্তোরা উতকৃষ্ট মানের সেবা দেয় এবং এখানে বিভিন্ন বিদেশি সিগার ও পানীয় গ্রহণের সুযোগ রয়েছে । উপভোগ করুন আপানার ছুটিকে
+</p>
+</div>
+<div class='deluxeroom'>
+<img src='images/dining1.jpg' />
+</div>
+<div class='atriumroom'>
+<img src='images/dining2.jpg' />
+</div>
+<div class='aboutdeluxeroom'>
+<b style=' font-size:20px;'>ওয়াটার গার্ডেন বীয়ারখানা</b>
+<br />
+<span>
+এটি সারাদিন এবং রাত সেবা প্রদান করে এবং এখানে পাবেন বিভিন্ন ধরনের ব্রেকফাস্ট,স্ন্যাক্স এবং আন্তর্জাতিক মানের খাবারের সরবরাহ রয়েছে এখানে.
+</span>
+</div>
+<div class='aboutatriumroom'>
+<b style=' font-size:20px;'>সাবলাইম রেস্টুরেন্ট</b>
+<br />
+<span>
+এটি একটি আধুনিক কিন্তু মার্জিত রেস্তোরা যা ঊতকৃষ্ট মানের বাংলাদেশি খাবার সরবরাহ করে
+</span>
+</div>
+<div class='businessroom'>
+<img  src='images/dining3.jpg'/>
+</div>
+<div class='executiveroom'>
+<img  src='images/dining4.jpg'/>
+</div>
+<div class='aboutbusinessroom'>
+<b style=' font-size:20px;'>লাউঞ্জ এবং বার</b>
+<br />
+<span>
+গ্রাঊন্ড লেভেল এ অবস্থিত।এটি একটি আরামদায়ক লাউঞ্জ যেখানে আপনি বব্ধুদের সাথে বিলিয়ার্ড খেলতে পারবেন কিংবা বিনোদনমূলক সন্ধ্যা কাটাতে পারবেন
+
+</span>
+</div>
+<div class='aboutexecutiveroom'>
+<b style=' font-size:20px;'>সিগার বার</b>
+<br />
+<span>
+সিগার বার হচ্ছে একান্ত নির্জন যেখানে আপনি স্বচ্ছন্দে সময় কাটাতে পারেন ।
+আমাদের সদস্য ও অতিথিরা এখানে বিশ্বের বিভিন্ন প্রিমিয়াম সিগার ও বেভারেজ উপভোগ করে থাকেন।
+</span>
+</div>
+</div>
+</div>
+</body>
+</html>");
+?>
+
+
+
